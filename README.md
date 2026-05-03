@@ -9,8 +9,8 @@ A distributed data pipeline built with **Scala + Apache Spark** to process, anal
 > 📸 Add screenshots of your Spark output / charts here.  
 > You can export slides from `Urban_Pollution_Analysis_with_Apache_Spark.pptx` as images and drop them in a `screenshots/` folder, then reference them like:
 > ```markdown
-> ![ETL Output](screenshots/etl_output.png)
-> ![ML Results](screenshots/ml_results.png)
+> ![ETL Output](picture1.png)
+> ![ETL Output](picture2.png)
 > ```
 
 ---
