@@ -7,7 +7,6 @@ A distributed data pipeline built with **Scala + Apache Spark** to process, anal
 ## Screenshots
 
 
-<img src="./ETL%20Output/Picture1.png" width="800">
 <img src="./ETL%20Output/Picture3.png" width="800">
 
 
